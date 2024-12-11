@@ -1,1 +1,1 @@
-# Inn
+Inn stay calculation price. Insert all the information requested and calculate how much you should pay for the stay. If you want to reset all the information provided you can press on 'Annulla', and click 'Esci' whenever you want to close the window and terminate the program.
